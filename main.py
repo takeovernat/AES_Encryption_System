@@ -1,6 +1,3 @@
-#Natnael Teshome
-#CSCE 3550
-#November 2021
 
 import sys
 import numpy as np
